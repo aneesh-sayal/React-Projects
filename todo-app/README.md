@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+I have made this app while learning React from Piyush Garg.
+This app made me practice :
+React Basics
+Props
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After cloning the app, install all tha dependencies by running the command :
+
+### `npm install`
 
 ## Available Scripts
 
